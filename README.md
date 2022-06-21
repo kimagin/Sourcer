@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-📑Log Manager
+📑Sourcer
 </h1>
 <p align="center">
-    A simple Vue❤️ based log manager with time stamp
+    A unique resource manager to let you keep all your resources organized.
 </p>
 
 
